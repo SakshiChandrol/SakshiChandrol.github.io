@@ -1,0 +1,13 @@
+body
+{
+background-image: url("bg.jpg");
+background-repeat: repeat;
+background-attachment: fixed;
+
+}
+div.sticky
+{
+    position:sticky;
+    position: -webkit-sticky;
+    top:20px;
+}
